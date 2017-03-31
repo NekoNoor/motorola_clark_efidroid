@@ -1,5 +1,3 @@
-# efidroidfiles
-
 # [EFIDroid] Device port stability checklist
 - [x] \(obvious\) do LK, UEFI, linux and recovery boot?
 - [ ] does UEFI pass the same memory map as the stock bootloader?

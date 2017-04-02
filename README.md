@@ -8,4 +8,4 @@
 - [x] does UEFI recognize the SDcard when booting from a power-off state?
 - [ ] verify that booting both internal and multiboot ROM's via UEFI doesn't give more selinux denials than with the stock bootloader
 - [x] verify that recovery does work correctly (can all partitions be mounted?)
-- [ ] verify that EFIDroid works in all possible configurations (bootloaders, ROM's). You must not force users to do/install anything before using EFIDroid.
+- [x] verify that EFIDroid works in all possible configurations (bootloaders, ROM's). You must not force users to do/install anything before using EFIDroid.

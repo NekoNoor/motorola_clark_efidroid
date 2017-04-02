@@ -1,8 +1,8 @@
 # [EFIDroid] Device port stability checklist
 - [x] \(obvious\) do LK, UEFI, linux and recovery boot?
-- [ ] does UEFI pass the same memory map as the stock bootloader?
+- [x] does UEFI pass the same memory map as the stock bootloader?
 - [x] does UEFI pass the correct cmdline to linux kernels? (/proc/cmdline)
-- [ ] does UEFI apply the correct FDT patches? (use build/tools/diffatags)
+- [x] does UEFI apply the correct FDT patches? (use build/tools/diffatags)
 - [x] do stock ROM's boot?(they can use custom image formats)
 - [x] does UEFI recognize the SDcard?
 - [x] does UEFI recognize the SDcard when booting from a power-off state?
